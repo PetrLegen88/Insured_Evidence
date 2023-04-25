@@ -2,8 +2,6 @@ class Insured:
     """
     The Insured class represents an insured person.
 
-    typescript
-    Copy code
     Parameters:
     - name: a string with the first name
     - surname: a string with the last name
